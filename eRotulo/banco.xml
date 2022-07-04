@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<unidades_tabela>
+	<unidade_item>
+		<id>1</id>
+		<unidade>UNIDADE</unidade>
+		<Nac_Int>I</Nac_Int>
+		<Exp>A3</Exp>
+		<tg>TAA</tg>
+		<lacre>123456</lacre>
+	</unidade_item>
+</unidades_tabela>
